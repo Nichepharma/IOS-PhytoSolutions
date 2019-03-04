@@ -1,0 +1,46 @@
+
+/* Class = "UILabel"; text = "Hair type and problem?"; ObjectID = "21f-g2-Sel"; */
+"21f-g2-Sel.text" = "انواع و مشاكل الشعر ؟";
+
+/* Class = "UILabel"; text = "PHYTOMILLESIME"; ObjectID = "DP0-gi-Agd"; */
+"DP0-gi-Agd.text" = "";
+
+/* Class = "UINavigationItem"; title = "Phyto"; ObjectID = "Kei-mW-HO2"; */
+"Kei-mW-HO2.title" = "فايتو";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "MM9-dl-D2d"; */
+"MM9-dl-D2d.text" = "القائمة";
+
+/* Class = "UIButton"; normalTitle = ">>"; ObjectID = "Pcv-ZE-GCB"; */
+"Pcv-ZE-GCB.normalTitle" = "<<";
+
+/* Class = "UILabel"; text = "Scroll Down"; ObjectID = "QLT-dg-Inu"; */
+"QLT-dg-Inu.text" = "اسحب لاسفل";
+
+/* Class = "UITextView"; text = ""; */
+"Wvy-Mw-6af.text" = "";
+
+/* Class = "UILabel"; text = "In order to protect and to rehydrate this \nweakened hair, PHYTO offers products \n"; ObjectID = "gRP-vx-Yb8"; */
+"gRP-vx-Yb8.text" = " تقدم فيتو منتجات لعنايه و ترطيب الشعر المنهك";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint oczazazacaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "huf-I3-Hlc"; */
+"huf-I3-Hlc.text" = "";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "iLl-Ng-3zg"; */
+"iLl-Ng-3zg.normalTitle" = "ابدا";
+
+/* Class = "UILabel"; text = "BEAUTY CARE line."; ObjectID = "jG8-78-00C"; */
+"jG8-78-00C.text" = "خط العنايه بالشعر";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "nmz-Pz-g6v"; */
+"nmz-Pz-g6v.title" = "";
+
+/* Class = "UILabel"; text = "Proposes through a complete hair"; ObjectID = "oCf-zn-9YB"; */
+"oCf-zn-9YB.text" = " تقدم مجموعه كامله للعنايه بجمال الشعر";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "ugu-24-Ya9"; */
+"ugu-24-Ya9.normalTitle" = "العربية";
+
+
+
+

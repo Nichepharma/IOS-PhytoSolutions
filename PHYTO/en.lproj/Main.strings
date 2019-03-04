@@ -1,0 +1,48 @@
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "1hu-vg-jyt"; */
+"1hu-vg-jyt.title" = "Item 1";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "3lk-F7-9kb"; */
+"3lk-F7-9kb.title" = "Item 2";
+
+/* Class = "UIButton"; normalTitle = ">>"; ObjectID = "40e-u4-aHt"; */
+"40e-u4-aHt.normalTitle" = ">>";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "8q3-f3-6aX"; */
+"8q3-f3-6aX.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "8rr-0D-m3V"; */
+"8rr-0D-m3V.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "In order to protect and to rehydrate this \nweakened hair, PHYTO offers products \n"; ObjectID = "Bht-wb-bBa"; */
+"Bht-wb-bBa.text" = "In order to protect and to rehydrate this \nweakened hair, PHYTO offers products \n";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "FUn-Aa-DBE"; */
+"FUn-Aa-DBE.text" = "Language";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QK9-k1-ftV"; */
+"QK9-k1-ftV.text" = "Label";
+
+/* Class = "UILabel"; text = "Proposes through a complete hair"; ObjectID = "Ssm-K4-akF"; */
+"Ssm-K4-akF.text" = "Proposes through a complete hair";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xjp-2F-AYq"; */
+"Xjp-2F-AYq.text" = "Label";
+
+/* Class = "UILabel"; text = "BEAUTY CARE line."; ObjectID = "mms-mZ-wPf"; */
+"mms-mZ-wPf.text" = "BEAUTY CARE line.";
+
+/* Class = "UILabel"; text = "Hair type and problem?"; ObjectID = "orb-ew-1ef"; */
+"orb-ew-1ef.text" = "Hair type and problem?";
+
+/* Class = "UINavigationItem"; title = "Phyto"; ObjectID = "qRc-zX-ztL"; */
+"qRc-zX-ztL.title" = "Phyto";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tHE-dx-SPl"; */
+"tHE-dx-SPl.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "tTt-7c-nnl"; */
+"tTt-7c-nnl.normalTitle" = "Start";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint oczazazacaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "v1R-r0-S9N"; */
+"v1R-r0-S9N.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint oczazazacaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";

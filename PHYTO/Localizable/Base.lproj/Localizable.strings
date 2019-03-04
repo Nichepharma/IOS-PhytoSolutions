@@ -1,0 +1,460 @@
+/* 
+  Localized.strings
+  PHYTO
+
+  Created by Yahia El-Dow on 3/26/18.
+  Copyright © 2018 Yahia El-Dow. All rights reserved.
+*/
+
+
+"arabic_title" = "Arabic";
+"english_title" = "English";
+"language_title" = "Language";
+"aboutUs_title" = "About Us";
+"save_title" = "Save";
+"stores_title" = "Stores";
+
+"menu_title" = "Menu";
+
+"chooseLang_title" = "Choose Language";
+"back_title" = "Back";
+
+"about_desc" = "For 50 years, PHYTO has been innovating by extracting at the heart of the vegetal world the most effective actives and by developing pioneering concepts to preserve hair health and to sublimate hair beauty";
+
+// MARK: PROBLEM NUM (1) AND SOLUTIONS
+
+"p1_title" = "DRY HAIR" ;
+"p1_desc" = "Dry hair can be naturally dry, the hydrolipidic film is not playing a natural protective barrier anymore, the hair scales are lifted leading to a loss of water. The hair becomes vulnerable.\n\nResults: The hair becomes dehydrated, dull and difficult to untangle, it lacks of softness.";
+
+"p1_s1_title" = "PHYTOJOBA" ;
+"p1_s1_subTitle" = "Helps strengthen the hair’s natural protection and preserve its ideal condition.\nHair regains optimum hydration, shine and suppleness." ;
+"p1_s1_desc" = "HYDRATING AND PROTECTING ACTIONS\n\nJojoba oil: hydrating, softening and protecting. Helps restore the hydrolipidic film and adds shine.\n\nCornflower and mallow extraction: soothes, hydrates and softens the hair fiber.\n\nDIRECTIONS FOR USE\n\nApply PHYTOJOBA SHAMPOO to wet hair. Massage gently. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse twice a week on dry hair." ;
+
+"p1_s2_title" = "PHYTOJOBA" ;
+"p1_s2_subTitle" = "Hydrates dry hair, restores vitality and eases detangling.\nHair regains suppleness and shine." ;
+"p1_s2_desc" = "HYDRATING AND PROTECTING ACTIONS\n\nJojoba oil: hydrating, softening and protecting. Helps restore the hydrolipidic film and adds shine.\n\nWheat micro-proteins: capture moisture and help retain it into the hair fiber.\n\nREVITALIZING ACTION\n\nAngelica seed extraction: tones and strengthens the cuticle.\n\nEssential oil of sweet orange: impart shine and vitality to hair.\n\nDIRECTIONS FOR USE\n\nAfter shampoo, towel-dry hair carefully then spread a walnut-sized amount of PHYTOJOBA MASK through lengths and ends. Leave on for 2 to 5 minutes depending on hair’s level of porosity and thickness. Smooth with a comb. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse once a week on dry hair." ;
+
+"p1_s3_title" = "PHYTO 7" ;
+"p1_s3_subTitle" = "Hydrates and protects the hair fiber on a daily basis.Hair regains softness, suppleness and shine.";
+"p1_s3_desc" = "Hydrates and protects the hair fiber on a daily basis.\n\nHair regains softness, suppleness and shine.\n\nDIRECTIONS FOR USE\n\nApply to dry or thoroughly towel-dried hair. Spread a small amount of PHYTO 7 over palms of hands and use the fingers as a detangling comb throughout the entire head of hair. DO NOT RINSE.\n\nPHYTO RECOMMENDS\n\nUse daily on dry hair." ;
+
+
+// MARK: PROBLEM NUM (2) AND SOLUTIONS
+
+"p2_title" = "ULTRA-DRY HAIR" ;
+"p2_desc" = "Ultra-dry hair is often naturally dry hair whose condition has become exacerbated by the absence of proper treatments and because of climatic aggressions (UV, pollution, wind, cold). The hydrolipidic film is heavily affected and the cuticle scales are permanently lifted leading to a dual deficiency in moisture and lipids.\n\nResults: Highly weakened, the hair loses its elasticity and softness. It becomes porous, rough, dull and very difficult to untangle. When touching the hair, it feels “straw-like“.";
+
+"p2_s1_title" = "PHYTOELIXIR" ;
+"p2_s1_subTitle" = "Nourishes, regenerates and protects hair fiber.\nBeautifies, illuminates and reveals hair beauty.\nHair regains suppleness and shine." ;
+"p2_s1_desc" = "NUTRITIVE AND REGENERATING ACTIONS\n\nEgg yolk oil (vitamins A & E + minerals): nourishes and fortifies the hair fiber.\n\nCorn germ oil: intensely nourishes and deeply regenerates the hair fiber.\n\nPROTECTIVE ACTION \n\nKaranja oil: antioxidant. Helps protect the hair fiber from external stress factors.\n\nMOISTURIZING AND SHINE-ENHANCING ACTIONS\n\nCamellia oil (rich in EFAs*): hydrates and imparts shine without weighing hair down.\n\nDIRECTIONS FOR USE\n\nApply PHYTOELIXIR SUBTLE OIL on the hair lengths and ends. Gently massage to encourage product absorption. Leave on for 10 minutes or more depending on hair type. Rinse thoroughly, then shampoo.\n\nPHYTO RECOMMENDS\n\nUse once or twice a week before shampoo.\n\nA few drops of elixir mixed with shampoo will optimize the nourishing action of the shampoo.\n\nCan be left on throughout the night for intense nourishing and regenerating benefits." ;
+
+
+"p2_s2_title" = "PHYTOELIXIR" ;
+"p2_s2_subTitle" = "Gently cleanses the scalp.\nImmediate and for several days lipid-replenished hair." ;
+"p2_s2_desc" = "IMMEDIATE LIPID-REPLENISHING ACTION\n\nNarcissus wax: penetrates into the hair fiber to nourish and bring immediate softness to hair.\n\nLIPID-REPLENISHING AND PROTECTIVE ACTIONS FOR SEVERAL DAYS\n\nMacadamia oil chronospheres: oil is progressively released over time\n\nto intensively lipid-replenish the hair and to protect it over several days.\n\nDIRECTIONS FOR USE\n\nExpress care: Apply PHYTOELIXIR CLEANSING CREAM CARE on very wet hair. Gently massage the lengths and scalp. Emulsify and leave on 2 to 3 minutes.  Rinse thoroughly.\n\nIntense care: Apply few drops of PHYTOELIXIR CLEANSING CREAM CARE line by line on a dry scalp. Gently massage the scalp, and extend the product to the lengths. Leave on for 2 to 5 minutes.  Add some water to emulsify the cream and spread it all over. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse on ultra-dry hair alternating with PHYTOELIXIR SHAMPOO." ;
+
+"p2_s3_title" = "PHYTOELIXIR" ;
+"p2_s3_subTitle" = "Lipid-replenishment and immediate and long-lasting protection\nfor several days.\nSuppleness and radiance.";
+"p2_s3_desc" = "IMMEDIATE LIPID-REPLENISHING ACTIONS\n\nNarcissus wax: penetrates into the hair fiber to nourish and bring immediate softness to hair.\n\nLIPID-REPLENISHING AND PROTECTIVE ACTIONS FOR SEVERAL DAYS\n\nMacadamia oil chronospheres: oil is progressively released over time               to intensively lipid-replenish the hair and to protect it over several days.\n\nCLEANSING ACTION\n\nSaponaria extraction: plant with natural washing power.\n\nDIRECTIONS FOR USE\n\nApply PHYTOELIXIR SHAMPOO on wet hair. Gently massage. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse on ultra-dry hair once to twice per week alternating\n\n             with PHYTOELIXIR CLEANSING CREAM CARE." ;
+
+"p2_s4_title" = "PHYTOELIXIR" ;
+"p2_s4_subTitle" = "Lipid-replenishment and immediate and long-lasting protection\nfor several days.\nTransformed hair, unrivalled softness and shine." ;
+"p2_s4_desc" = "IMMEDIATE LIPID-REPLENISHING ACTION\n\nNarcissus wax: penetrates into the hair fiber to nourish and bring immediate softness to hair.\n\nLIPID-REPLENISHING AND PROTECTIVE ACTIONS FOR SEVERAL DAYS\n\nMacadamia oil chronospheres: oil is progressively released over time              to intensively lipid-replenish the hair and to protect it over several days.\n\nDIRECTIONS FOR USE\n\nAfter the shampoo, on towel-dried hair, apply a quarter-size amount of PHYTOELIXIR MASK on lengths and ends. Leave on for 5 to 10 minutes according to hair porosity and thickness. Smooth with a comb. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse on utra-dry hair once per week." ;
+
+"p2_s5_title" = "PHYTO 9" ;
+"p2_s5_subTitle" = "Hydrates, nourishes and protects the hair fiber on a daily basis. Hair regains softness, suppleness and shine." ;
+"p2_s5_desc" = "HYDRATING AND REGENERATING ACTIONS\n\nCalendula, sage, burdock, willow, soybean, rosemary, mucilage: hydrate the hair fiber, protect and help regenerate the cuticle.\n\nNOURISHING ACTION\n\nMacadamia and St John’s wort oils: nourish and smooth down the cuticle.\n\nDIRECTIONS FOR USE\n\nApply to dry or thoroughly towel-dried hair. Spread a small amount\n\n   of PHYTO 9 over palms of hands and use the fingers as a detangling comb throughout the entire head of hair. DO NOT RINSE.\n\nPHYTO RECOMMENDS\n\nUse daily on ultra-dry hair." ;
+
+
+
+// MARK: PROBLEM NUM (3) AND SOLUTIONS
+
+"p3_title" = "WEAKENED & BRITTLE HAIR" ;
+"p3_desc" = "Damaged & brittle hair is generally dry hair which had mechanical (blow-drying, hair straightening…) or chemical (hair color treatments, perms…) damages. The cuticle scales are damaged layer after layer, the water is not kept anymore and inside of hair fiber, the chains composing keratin are breaking down and loose some of their components such as amino acids.\n\nResults: The hair is dull and loses softness. Hard to untangle, it easily tangle and break. Split ends appear.";
+
+"p3_s1_title" = "PHYTOKÉRATINE" ;
+"p3_s1_subTitle" = "Helps fill in and repair the internal structure of damaged, brittle hair.\nHair becomes more resistant, supple and shiny." ;
+"p3_s1_desc" = "IN-DEPTH REPAIR AND HYDRATING ACTIONS\n\nBiomimetic botanical keratin: deeply repairs the fiber.\n\nHyaluronic acid: retains moisture deep inside the hair fiber to keep hair optimally hydrated.\n\nCOATING AND PROTECTING ACTIONS\n\nEncapsulated rice ceramides: smooth down the cuticle.\n\nPomegranate extract: anti-free radical.\n\nSOFTENING ACTION\n\nWild pansy extraction: softens, hydrates and adds suppleness and silky softness to hair.\n\nDIRECTIONS FOR USE\n\nApply PHYTOKÉRATINE SHAMPOO to wet hair. Massage gently. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse twice a week on weakened and brittle hair." ;
+
+"p3_s2_title" = "PHYTOKÉRATINE" ;
+"p3_s2_subTitle" = "Helps repair and hydrate damaged lengths and ends deep down and eases detangling. Restores substance, strength and shine to brittle hair. Hair feels more resistant,\nsupple and silky soft." ;
+"p3_s2_desc" = "IN-DEPTH REPAIR AND HYDRATING ACTIONS\n\nBiomimetic botanical keratin: deeply repairs the fiber.\n\nDuo of hyaluronic acids (free and bound): retains moisture deep inside the hair fiber to keep hair optimally hydrated and replumps it on the surface.\n\nSMOOTHING ACTION\n\nEncapsulated rice ceramides: smooth down the cuticle and deeply fill in the micro-lesions of the hair fiber.\n\nSOFTENING ACTION\n\nWild pansy extraction: softens and moisturizes the hair.\n\nDIRECTIONS FOR USE\n\nAfter shampoo, on towel-dried hair apply a walnut-sized amount of PHYTOKÉRATINE MASK through lengths and ends. Leave on for 3 to 5 minutes on fine-textured hair and 10 minutes on thick hair. Smooth with a comb. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse once a week on weakened and brittle hair." ;
+
+"p3_s3_title" = "PHYTOKÉRATINE" ;
+"p3_s3_subTitle" = "Effectively repairs the internal substance of damaged hair.\nHelp protect hair from heat and breakage during blow-drying.\nHair is more resistant, silky soft, easier to style and control.";
+"p3_s3_desc" = "IN-DEPTH REPAIR AND HYDRATING ACTIONS\n\nBiomimetic botanical keratin: deeply repairs the fiber.\n\nHyaluronic acid: retains moisture deep inside the hair fiber to keep hair optimally hydrated.\n\nPROTECTING AND SMOOTHING ACTIONS\n\nYun zhi extract: natural heat-regulating agent that boosts the repairing effectiveness of the formula by sealing the plant keratin deep-down under the effect of heat.\n\nEncapsulated rice ceramides: smooth down the cuticle and deeply fill in the micro-lesions of the hair fiber.\n\nSOFTENING ACTION\n\nWild pansy extraction: imparts silky softness to hair.\n\nDIRECTIONS FOR USE\n\nUse PHYTOKÉRATINE SPRAY after shampoo, spraying onto damp lengths and ends, and comb through. Then style, blow-dry or smooth as usual. LEAVE-IN.\n\nPHYTO RECOMMENDS\n\nUse on weakened and brittle hair every time you blow-dry or smooth it.\n\nCan also be used on dry hair to ease styling.\n\nWhen using a straightening iron, carefully pre-dry hair." ;
+
+
+// MARK: PROBLEM NUM (4) AND SOLUTIONS
+
+
+"p4_title" = "ULTRA-DAMAGED, BRITTLE & DRY HAIR" ;
+"p4_desc" = "ULTRA-DAMAGED & BRITTLE HAIR is generally ultra-dry hair which has undergone mechanical (blow-drying, hair straightening…) or chemical (hair color treatments, perms…) damages. The cuticle scales previously altered end up to disappear such as the intercellular cement that sticks them together. Keratin is exposed and its chains of protein are breaking and massively loose amino acids; water and lipids are slipping out.\n\nResults: The hair has very rough touch, they are fluffy and dull. It loses elasticity and resistance. Very hard to brush, it tangles and breaks. The split ends become permanent.";
+
+"p4_s1_title" = "PHYTOKÉRATINE Extrême" ;
+"p4_s1_subTitle" = "Gently cleanses the scalp.\nRepair, regenerated hair.\nSuppleness and shine." ;
+"p4_s1_desc" = "EXTREME REPAIR ACTION:\n\n[HAIR’S SUBSTANCE REPAIR + LIPID REPAIR]\n\nBiomimetic botanical keratin: deeply repairs the fiber.\n\nBaobab and buriti oils: intensely nourish.\n\nCLEANSING ACTION\n\nSaponaria extraction: plant with natural washing power.\n\nDIRECTIONS FOR USE\n\nExpress care: Apply PHYTOKÉRATINE Extrême CLEANSING CREAM CARE \n\non very wet hair. Gently massage the lengths and scalp. Emulsify and leave on 2 to 3 minutes. Rinse thoroughly.\n\nIntense care: Apply few drops of PHYTOKÉRATINE Extrême CLEANSING CREAM CARE line by line on a dry scalp. Gently massage the scalp, and extend the product to the lengths. Leave on for 2 to 5 minutes. Add some water \n\nto emulsify the cream and spread it all over. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse on ultra-damaged, brittle and dry hair alternating with PHYTOKÉRATINE Extrême SHAMPOO." ;
+
+"p4_s2_title" = "PHYTOKÉRATINE Extrême" ;
+"p4_s2_subTitle" = "Extremely repairs and nourishes the hair.\nGently washed, the hair become more supple, soft and shiny." ;
+"p4_s2_desc" = "EXTREME REPAIR ACTION:\n\n[HAIR’S SUBSTANCE REPAIR + LIPID REPAIR]\n\nBiomimetic botanical keratin: deeply repairs the fiber.\n\nBaobab and buriti oils: intensely nourish.\n\nHYDRATING AND REINFORCING ACTIONS\n\nPeony extraction: hydrates and reinforces the hair.\n\nDIRECTIONS FOR USE\n\nApply PHYTOKÉRATINE Extrême EXCEPTIONAL SHAMPOO on wet hair. Gently massage. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse twice a week on ultra-damaged, brittle and dry hair alternating with PHYTOKÉRATINE Extrême  CLEANSING CREAM CARE." ;
+
+"p4_s3_title" = "PHYTOKÉRATINE Extrême" ;
+"p4_s3_subTitle" = "Extremely repairs and nourishes the hair.\nGently washed, the hair become more supple, soft and shiny.";
+"p4_s3_desc" = "Biomimetic botanical keratin: deeply repairs the fiber.\n\nSapote butter and baobab oil: intensely nourish.\n\nHYDRATING AND REINFORCING ACTIONS\n\nPeony extraction: hydrates and reinforces the hair.\n\nDIRECTIONS FOR USE\n\nAfter the shampoo, on towel-dried hair, apply a dab of PHYTOKÉRATINE Extrême EXCEPTIONAL MASK on ends and lengths. Leave it on for 2 to 3 minutes for fine hair, and 5 to 10 minutes for thick hair. Smooth with a comb. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse once a week on ultra-damaged, brittle and dry hair.\n" ;
+
+"p4_s4_title" = "PHYTOKÉRATINE Extrême" ;
+"p4_s4_subTitle" = "Extremely repairs and nourishes the hair. Facilitates styling & protects up to 220°C.\nHair become more supple, soft and shiny." ;
+"p4_s4_desc" = "EXTREME REPAIR ACTION:\n\n[HAIR’S SUBSTANCE REPAIR + LIPID REPAIR]\n\nBiomimetic botanical keratin: deeply repairs the fiber.\n\nSapote butter and baobab oil: intensely nourish.\n\nSMOOTHING, ENHANCING AND PROTECTIVE ACTIONS\n\nJicama tuber extract: smooths, tames and enhances the hair fiber.\n\nBlack grape procyanidins: thermo-protective up to 220o C.\n\nHYDRATING ACTION\n\nPeony extraction: hydrates and reinforces the hair.\n\nDIRECTIONS FOR USE\n\nApply a small amount of PHYTOKÉRATINE  Extrême  EXCEPTIONAL CREAM on lengths and ends. Comb and then proceed with your the usual styling, blow-drying or smoothing. LEAVE IN.\n\nPHYTO RECOMMENDS\n\nUse daily on ultra-damaged, brittle and dry hair before each blow-dry or smoothing. Can be used also on dry hair to facilitate hairstyling.\n" ;
+
+
+// MARK: PROBLEM NUM (5) AND SOLUTIONS
+
+"p5_title" = "COLOR-TREATED & HIGHLIGHTED HAIR" ;
+"p5_desc" = "Color treatments are hair-embellishing techniques that are now well-mastered but which can still leave more or less damaged hair.\n\nCOLOR-TREATED & HIGHLIGHTED hair suffer, during color treatment process a hair-lightening step (partial oxidation of melanin). This oxidation can weaken the hair, as it damages the cystine bridges. Color treatment products have an alkaline pH and, despite careful neutralization, some alkalinity may persist in the hair. The scales stay open, leading to loss of water even lipids and poor adherence of pigments.\n\nResults: The hair is getting more vulnerable against external agressions and more porous. Wash after wash, hair color begins to fade away, the hair becomes dull and lose its shine.";
+
+"p5_s1_title" = "PHYTOMILLESIME" ;
+"p5_s1_subTitle" = "Anti-color stripping action.\nFixes, protects and prolongs color.\nLightweight feel." ;
+"p5_s1_desc" = "ANTI-COLOR STRIPPING ACTION\n\nColor Locker Complex: fixes pigments at the heart of hair fiber. \n\nANTI-FADING ACTION\n\nRed Love® Apple extract: protects the hair fiber and preserves hair color.\n\nCARE ACTION\n\nApple blossoms and fruits extraction: closes hair scales to boost shine.\n\nHibiscus extraction: hydrates hair fiber and gives softness to the hair.\n\nDIRECTION FOR USE\n\nApply PHYTOMILLESIME COLOR LOCKER to dry hair, from roots to tips, section by section.\n\nLeave on for 1 to 2 minutes, then wash hair with a PHYTOMILLESIME cleansing care.\n\nPHYTO RECOMMENDS\n\nUse on color-treated, highlighted hair before each cleansing." ;
+
+"p5_s2_title" = "PHYTOMILLESIME" ;
+"p5_s2_subTitle" = "Anti-fading action.\nGently cleanses.\nProtects and prolongs color.\nShine and softness ." ;
+"p5_s2_desc" = "CLEANSING ACTION\n\nSaponaria extraction: plant with natural washing power.\n\nCARE ACTION\n\nEdelweiss extracts: anti-oxidants, they help to soften and soothe.\n\nDIRECTION FOR USE\n\nExpress care: Apply PHYTOMILLESIME CLEANSING CARE CREAM on very wet hair, extending to the ends. Gently massage the scalp. Emulsify and leave on 2 to 3 minutes. Rinse thoroughly.\n\nIntense care: Apply few drops of PHYTOMILLESIME CLEANSING CREAM CARE line by line on a dry scalp. Gently massage the scalp, and extend the product to the lengths. Leave on for 2 to 5 minutes. Add some water \n\nto emulsify the cream and spread it all over. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse on color-treated & highlighted hair, alternatively with PHYTOMILLESIME SHAMPOO." ;
+
+"p5_s3_title" = "PHYTOMILLESIME" ;
+"p5_s3_subTitle" = "Anti-fading action.\nProtects and prolongs hair color.\nShine and softness.";
+"p5_s3_desc" = "ANTI-FADING ACTION\n\nRed Love® Apple extract: protects the hair fiber and preserve hair color. \n\nCARE ACTION\n\nApple tree blossoms and fruit extraction: closes hair scales to boost shine.\n\nHibiscus flowers extraction: hydrate hair fiber and give softness to hair. \n\nEdelweiss extracts: anti-oxidants, they help to soften and soothe.\n\nDIRECTION FOR USE\n\nApply PHYTOMILLESIME SHAMPOO on wet hair. Gently massage. Rinse. Repeat and leave on for 2 minutes to enhance its care action. Rinse well.\n\nPHYTO RECOMMENDS\n\nUse on color-treated or highlighted hair, alternatively with PHYTOMILLESIME CLEANSING CARE CREAM." ;
+
+"p5_s4_title" = "PHYTOMILLESIME" ;
+"p5_s4_subTitle" = "Repairs and nourishes.\nProtects and prolongs hair color.\nEasy-to style hair.\nVibrant and radiant color." ;
+"p5_s4_desc" = "NOURISHING ACTION\n\nArgan butter: nourishes and deeply repairs the hair fiber.\n\nANTI-FADING ACTION\n\nRed Love® Apple extract: protects the hair fiber and preserve hair color.\n\nCARE ACTION\n\nApple tree blossoms and fruit extraction: closes hair scales to boost shine.\n\nHibiscus flowers extraction: hydrate the hair fiber and give softness to hair.\n\nDIRECTION FOR USE\n\nOn fine hair: Use after shampoo. Apply a dab of product to damp or towel-dried hair from lengths to ends. Leave on for 2 to 3 minutes. Detangle. Rinse thoroughly.\n\nOn thick hair: Use after shampoo . Apply 2 dabs of product to damp or towel-dried hair from lengths to ends. Leave on for 5 to 10 minutes, or longer if needed. Detangle. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse once a week on color-trated, highlighted hair." ;
+
+"p5_s5_title" = "PHYTOMILLESIME" ;
+"p5_s5_subTitle" = "Protected, hydrated, tamed, hair is resplendently beautiful boasting\na color that is shimmering with radiance and more vibrant than ever." ;
+"p5_s5_desc" = "ANTI-FADING ACTION\n\nExtrait de Pomme Red Love®: protects the hair fiber and preserve hair color.\n\nCARE ACTION \n\nApple tree blossoms and fruit extraction: closes hair scales to boost shine.\n\nSoft argan butter: restores the hydrolipidic film and brings suppleness & softness to the hair.\n\nCarob peptides: deeply restructure the hair.\n\nDIRECTIONS FOR USE\n\nSpray onto the lengths and ends of clean, towel-dried hair. Comb through and style as usual. May be used on dry hair: spray onto the palm of hands, rub hands together and work into the hair. Do not rinse.\n\nPHYTO RECOMMENDS\n\nUse on wet or dry hair to facilitate styling everyday and sublimate color-treated, highlighted hair." ;
+
+
+
+// MARK: PROBLEM NUM (6) AND SOLUTIONS
+
+"p6_title" = "THINNING & DEVITALIZED HAIR" ;
+"p6_desc" = "A healthy functioning scalp conditions the beauty and vitality of hair. In fact, the scalp is nourished from the microcirculatory system which brings all the necessary elements for a good quality hair fiber production.\n\nOver time, the roots are getting weaker and produce thinning and devitalized hair. The hair fiber become fragile.";
+
+"p6_s1_title" = "PHYTODENSIA" ;
+"p6_s1_subTitle" = "Revitalizing and fortifying action.\nLight, soft and voluptuous hair." ;
+"p6_s1_desc" = "RESTRUCTURING AND FORTIFYING ACTIONS\n\nVernonia & grape extract: create an environment conducive to help restructure and fortify the hair.\n\nPLUMPING AND COATING ACTIONS\n\nHyaluronic acid & acacia collagen: give body  and substance to the hair fiber.\n\nDETANGLING ACTION\n\nMilk thistle extraction: limits water loss and acts as a conditioner.\n\nDIRECTIONS FOR USE\n\nApply PHYTODENSIA SHAMPOO to damp hair. Gently massage to a lather, then rinse. Repeat and leave on for 2 minutes to enhance its hair care action. Rinse well.\n\nPHYTO RECOMMENDS\n\nUse on thinning and devitalized twice a week." ;
+
+"p6_s2_title" = "PHYTODENSIA" ;
+"p6_s2_subTitle" = "Coating action on the hair fiber.\nVoluptuous hair, full of body." ;
+"p6_s2_desc" = "RESTRUCTURING AND FORTIFYING ACTIONS\n\nVernonia & grape extract: create an environment conducive to help restructure and fortify the hair.\n\nPLUMPING AND COATING ACTIONS\n\nHyaluronic acid & acacia collagen: give body and substance to the hair fiber.\n\nDETANGLING ACTION\n\nMilk thistle extraction: limits water loss and acts as a conditioner.\n\nDIRECTIONS FOR USE\n\nAfter the shampoo, apply a dab of PHYTODENSIA MASK on towel dried lengths and ends. Leave on for three to five minutes. Comb through, then rinse well.\n\nPHYTO RECOMMENDS\n\nUse on thinning and devitalized hair after each shampoo." ;
+
+"p6_s3_title" = "PHYTODENSIA" ;
+"p6_s3_subTitle" = "Restructuring and fortifying action.\nStimulates the scalp, for more resilient hair, full of vitality.";
+"p6_s3_desc" = "RESTRUCTURING AND FORTIFYING ACTIONS\n\nVernonia & grape extract: create an environment conducive to help restructure and fortify the hair.\n\nPLUMPING AND COATING ACTIONS\n\nHyaluronic acid & acacia collagen: give body and substance to the hair fiber.\n\nDIRECTIONS FOR USE\n\nAfter the shampoo, to a dry or damp scalp, apply PHYTODENSIA SERUM in sections. Massage gently. Do not rinse. Style hair as usual. Use up to three times a week.\n\nPHYTO RECOMMENDS\n\nUse on thinning and devitalized hair three times a week." ;
+
+
+
+
+
+// MARK: PROBLEM NUM (7) AND SOLUTIONS
+
+"p7_strip_title" = "PHYTO offer products that helps anti hair loss.";
+
+"p7_title" = "ANTI-HAIR LOSS" ;
+"p7_desc" = "The normal amount of hair loss is 50 up to 100 hairs per day and most people notice that.\n\nDandruff treatment is needed when hair loss exceeds that normal rate, which can be noticed by the amount of the falling out hair while brushing or in case of noticing recent hair blanks\n\nPhyto represents the Anti hair loss and hair Germination collection" ;
+
+"p7_s1_title" = "PHYTOLOGIST" ;
+"p7_s1_subTitle" = "Complements and optimizes the PHYTOLOGIST 15 ABSOLUTE ANTI-HAIR LOSS TREATMENT. \n\nThe hair is coated, fortified, and more beautiful, within the very first applications." ;
+"p7_s1_desc" = "ENERGIZING AND FORTIFYING ACTION\n\nCocoa extract: with powerful antioxidants properties, protects and improves the hair bulb environment.\n\nGuarana extract : stimulating active ingredient, it gives strength, vitality and beauty to the hair.\n\nRed algae extract : coats the hair fiber for visibly thicker hair.\n\nHorsetail decoction : fortify hair.\n\nDIRECTIONS FOR USE\n\nApply PHYTOLOGIST 15 SHAMPOOING to damp hair. Gently massage. Rinse abundantly.\n\nPHYTO RECOMMENDS\n\nUse 2 to 3 times a week in case of hair loss and visible scalp.\n\nIf hair is washed daily, alternate with a frequent-use shampoo" ;
+
+"p7_s2_title" = "PHYTOLOGIST" ;
+"p7_s2_subTitle" = "Hair regains HAIR ABUNDANCE:\n\nHair loss is slowed(1), +5942 new hairs(2),\n\nincreases hair follicle volume for thicker hair(3)." ;
+"p7_s2_desc" = "15 BIOLOGICAL TARGETS INVOLVED IN HAIR LOSS AND HAIR GROWTH\n\nCocoa: improves hair anchoring\n\nIndian gentian: activates new hair growth & genesis \n\nBaikal skullcap: increases hair follicle volume\n\nBotanical stem cells: prolongation of hair life.\n\nDIRECTIONS FOR USE\n\nAfter the shampoo, apply line by line on the top of the head and thinned areas. Massage the scalp to optimize the penetration of the treatment. 3 vials per weekend during 3 months. DO NOT RINSE.\n\nPHYTO RECOMMENDS\n\nUse 3 vials per week during 3 months, in case of hair loss and visible scalp.\n\nTo optimize the treatment, use the Phytolium (men) shampoo or Phytocyane (women) shampoo).\n\n Clinical study on 74 subjects during 3 months.\n\n Average value of hair clinically evaluated over 3 months on 48 volunteers that present the best reponse. Average value of 2,222 hairs on 74 subjects.\n\n Self-assessment on 80 subjects during 4 months." ;
+
+"p7_s3_title" = "PHYTOCYANE" ;
+"p7_s3_subTitle" = "Completes and optimizes the action of PHYTOCYANE DENSIFYING TREATMENT SERUM FOR WOMEN.\nHair regains density, vitality and shine from the very first applications.";
+"p7_s3_desc" = "REGENERATING AND PROTECTING ACTION\n\nGinkgo biloba and vitamin B6: help boost cellular metabolism and strengthen hair’s resistance.\n\nGrape procyanidins: anti-free radical. Help protect the hair bulb and prevent the appearance of visible signs of aging.\n\nFORTIFYING AND HYDRATING ACTION\n\nCinchona bark extraction (40%): helps energize the hair bulb and fortify the scalp.\n\nProvitamin B5: hydrating. Imparts suppleness and shine to hair.\n\nDIRECTIONS FOR USE\n\nApply PHYTOCYANE SHAMPOO to wet hair. Massage gently. Leave on for 2 minutes. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse 2 to 3 times a week for thinning hair conditions in women.\n\nIf hair is washed daily, alternate with a frequent-use shampoo." ;
+
+"p7_s4_title" = "PHYTOCYANE" ;
+"p7_s4_subTitle" = "Helps strengthen hair and stimulate new growth.\nHelps delay the appearance of gray hair.\nHair regains density, volume and shine." ;
+"p7_s4_desc" = "ACTION TO PROTECT THE HAIR BULB’S ENVIRONMENT, REGENERATING AND SUPPORT NEW HAIR GROWTH ACTION\n\nGinkgo biloba and viburnum bark extracts: encourage cellular exchanges and keratin production.\n\nGrape procyanidins: anti-free radical.\n\nSulfur-containing amino acids, peptide stimulators, sulfur-containing polyosides: help boost keratin production.\n\nVOLUMIZING, SHINE-ENHANCING AND ANTI-AGING ACTION\n\nVitamins B5 and B6: improve hair hydration and volume.\n\nSilk proteins: impart shine.\n\nTyrosine derivative: helps delay the appearance of gray hair.\n\nDIRECTIONS FOR USE\n\nAfter shampoo, apply the entire contents of an ampoule of PHYTOCYANE               to the scalp, section by section, using the applicator tip. Massage gently. Style as usual. DO NOT RINSE.\n\nPHYTO RECOMMENDS\n\nUse for reactional thinning hair conditions in women:\n\nApply 1 ampoule* 3 times a week for 1 month.\n\n*up to 3 ampoules a week in case of severe reactional thinning hair.\n\nCan be used all year round for its cosmetic benefits." ;
+
+
+
+// MARK: PROBLEM NUM (8) AND SOLUTIONS
+
+"p8_title" = "DANDRUFF" ;
+"p8_desc" = "Dandruff occurs when the scalp becomes dry or greasy and produces white flakes of dead skin that appear in the hair. The skin constantly produces new skin cells and sheds old cells to stay healthy. Dandruff can occur when this cycle of skin renewal speeds up.";
+
+"p8_s1_title" = "PHYTOSQUAM INTENSE" ;
+"p8_s1_subTitle" = "Eliminates in record timestubborn dandruff.\nFight against their recurrence.\nSoothes itching.\nRespects the scalp, can be used year around.\nBeautifies hair: suppleness and shine." ;
+"p8_s1_desc" = "POWERFULL ANTI-DANDRUFF ACTION\n\nTITRATED BOTANICAL ANTI-DANDRUFF COMPLEX [black pepper + Guyana wood]: anti-dandruff.\n\nPiroctone olamine: anti-fungal, eliminates Malassezia. \n\nSalicylic acid (willow derived): keratolytic, regulates the turn-over.\n\nPURIFYING ACTION\n\nWillow extraction: purifies the scalp.\n\nOptimized synergy of essential oils: purifying.\n\nANTI-RECURRENCE ACTION\n\nSophora japonica extract: regenerating.\n\nChaulmoogra extract: keratolytic.\n\nDIRECTIONS FOR USE\n\nDirect application on dry scalp line by line. Massage gently the entire scalp and leave on 5 to 7 minutes.\n\nEmulsify with water. PHYTOSQUAM INTENSE becomes an ultra-cosmetic shampoo with a generous foam. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse 2 to 3 times per week.\n\nIn case of daily shampoo, alternate with the PHYTOSQUAM shampoo adapted to the scalp." ;
+
+"p8_s2_title" = "PHYTOSQUAM" ;
+"p8_s2_subTitle" = "Eliminates dandruff.\nPrevents their recurrence.\nThe scalp is purified and soothed.\nThe hair regains brilliance, shine and lightness." ;
+"p8_s2_desc" = "ANTI-DANDRUFF ACTION\n\nTITRATED BOTANICAL ANTI-DANDRUFF COMPLEX [black pepper + Guyana wood]:\n\nanti-dandruff.\n\nPURIFYING ACTION\n\nCelandine extraction: purifies the scalp.\n\nANTI-RECURRENCE ACTION\n\nSophora japonica extract: regenerating.\n\nBEAUTY ACTION\n\nGentiane extract: tonifying.\n\nChicory extract: detangler and softener.\n\nSulfate-free\n\nDIRECTIONS FOR USE\n\nApply PHYTOSQUAM SHAMPOO on well wet hair. Massage gently. Rinse. Renew the application. Leave on 2 minutes. Massage gently. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse 2 to 3 times per week, in relay of PHYTOSQUAM INTENSE." ;
+
+
+"p8_s3_title" = "PHYTOSQUAM" ;
+"p8_s3_subTitle" = "Eliminates dandruff.\nPrevents their recurrence.\nScalp and hair are moisturized.\nHair regains brilliance, shine and lightness.";
+"p8_s3_desc" = "ANTI-DANDRUFF ACTION\n\nTITRATED BOTANICAL ANTI-DANDRUFF COMPLEX [black pepper + Guyana wood]:\n\nanti-dandruff.\n\nANTI-RECURRENCE ACTION\n\nSophora japonica extract: regenerating.\n\nBEAUTY ACTION\n\nComfrey extraction (44%): soothing and emollient.\n\nTamarind pulp: hydrating and regenerating.\n\nAloe vera: soothing and nourishing.\n\nSulfate-free\n\nDIRECTIONS FOR USE\n\nApply PHYTOSQUAM SHAMPOO on well wet hair. Massage gently. Rinse. Renew the application. Leave on 2 minutes. Massage gently. Rinse thoroughly.\n\nPHYTO RECOMMENDS\n\nUse 2 to 3 times per week, in relay of PHYTOSQUAM INTENSE." ;
+
+
+// MARK: PROBLEM NUM (9) AND SOLUTIONS
+
+"p9_title" = "HAIR COLOR" ;
+"p9_desc" = "Hair color treatments are hair-embellishing techniques that are now well-mastered.They are made either in hair salon or at home.\n\nExpert in hair color treatments, PHYTO Laboratories provide since 2004, permanent color treatments combining performance,\n\nbeauty and respect,\n\nto meet customers’ needs in terms of color.";
+
+"p9_s1_title" = "PHYTOCOLOR" ;
+"p9_s1_subTitle" = "Intense and vibrant color.\n100% gray hair coverage from the very first application.\nLong-lasting hold.\nMirror-effect shine and silky-soft hair.\nRespects the hair nature." ;
+"p9_s1_desc" = "DEVELOPER LOTION\n\nLIGHTENING ACTION\n\nHydrogen peroxide: lightens hair’s natural melanin pigments and oxidizes   colorants to reveal color.\n\nCOLORING CREAM - 16 shades from black (1) to very light blond (9).\n\nCOLORING ACTION\n\nAmmonia: present in a low concentration, it helps open the cuticle’s scales to ease the passage of the botanical pigments and color precursors. It also works synergistically with hydrogen peroxide to lighten the hair’s natural melanin pigments.\n\nBotanical pigments (Broom, Coreopsis, Madder, Brazil wood and Bay-rum): naturally and lastingly color hair, with uncomparable reflections, while allowing a 100% gray hair coverage.\n\nULTRA-SHINE AND ENHANCING ACTION\n\nHUILE D’ALÈS with 10 plant extracts: hydrates and brings an extreme radiance\n\nto hair fiber.\n\nSoy proteins: coat and restructure the hair, preserving its moisture levels.\n\nPROTECTING ACTION\n\nEpaline (natural derivative of corn oil): anti-irritation, anti-itching and anti-drying, it envelops the scalp in a protective, invisible microfilm.\n\nPROTECTING BALM\n\nPHYTOBAUME COLOR PROTECT restores the hair’s pH level and smoothes down the cuticle.\n\nImparts shine and locks in color." ;
+
+
+
+"s1_name" = "Hayat";
+"s1_address" = "King Abdul Aziz Road - Hayat Mall";
+"s2_name" = "Angari";
+"s2_address" = "Ash Shaikh Abdullah Al Angari - Al Wurud ";
+
+
+"s3_name" = "Alhamra ";
+"s3_address" = "King Abdullah Roed";
+
+"s4_name" = "Takhasusi 1";
+"s4_address" = "Intersection of Makkah Road and Takhasusi Road";
+
+"s5_name" = "Panorama";
+"s5_address" = "Takasusi Street - Panorama Mall ";
+
+"s6_name" = "Othaim";
+"s6_address" = "Exit 15 - Othaim Mall";
+
+"s7_name" = "Ezdehar";
+"s7_address" = "Exit 7, Othman Ibn Affan Road";
+
+
+"s8_name" = "Gallery";
+"s8_address" = "Intersection Of Imam Saud Road With King Fahad Road - Riyadh Gallery Compound";
+
+"s9_name" = "DQ";
+"s9_address" = "Abdullah Ibn Huzafa Al Sahmy Street, Just After The Round About No.7 ";
+
+"s10_name" = "KFSH ";
+"s10_address" = "Takhassusi Street ";
+
+"s11_name" = "Rabwa";
+"s11_address" = "Exit14 Rabwa District ";
+
+"s12_name" = "K.Fahd ";
+"s12_address" = "King Fahd Road ";
+
+"s13_name" = "Al Jazeera  ";
+"s13_address" = "Mussa Ibn Nussair Street";
+
+"s14_name" = "Jana Mall ";
+"s14_address" = "King Abdulaziz Roed";
+
+"s15_name" = "Sadhan";
+"s15_address" = "Khurais Road ";
+
+"s16_name" = "Takhasusi 2";
+"s16_address" = "Tkahsusi St., Just After The Tuunel Going To King Abdullah Road";
+
+"s17_name" = "Granada";
+"s17_address" = "Exit9 Imam Saud Road - Granada Mall Gate5";
+
+"s18_name" = "Qairwan ";
+"s18_address" = "Anas Ibn Malik Road  ";
+
+"s19_name" = "Khurais ";
+"s19_address" = "Khurais Road";
+
+"s20_name" = "Abo Bakar ";
+"s20_address" = "Abi Bakar As-Sudiq Roed";
+
+"s21_name" = "Mousa";
+"s21_address" = "Mousa Ibn El Nosair St., Just Before The Intersection Of Mousa Ibn El Nosair St, With Takhasusi St.";
+
+"s22_name" = "Imam Plaza";
+"s22_address" = "Intersection Of Imam Saud Street With Hasan Bin Husain Steet ";
+
+"s23_name" = "PNU";
+"s23_address" = "Princess Norah University";
+
+"s24_name" = "Exit #2";
+"s24_address" = "Riyadh - Exit2 Prince Turki(The First) Road";
+
+"s25_name" = "Al Morooj  ";
+"s25_address" = "Imam Saud Bin Abdulaziz Bin Mohammed Road - Al Muruj";
+
+"s26_name" = "Olaya Mall";
+"s26_address" = "Olaya Street - Al Olaya";
+
+"s27_name" = "Cordoba Center";
+"s27_address" = "Cordoba District - Zaid Bin Thabit Street Beside McDonald's";
+
+"s28_name" = "Yasmine Plaza";
+"s28_address" = "Anas Ibn Malik Road  - Al Yasmin";
+
+"s30_name" = "Yasmin Centr";
+"s30_address" = "Abo Bakir Street North - After intersection with King Salman Street";
+
+"s31_name" = "Aen Cordoba";
+"s31_address" = "Cordoba District - Zaid Bin Thabit Street ";
+
+"s32_name" = "Telal ";
+"s32_address" = "Anas Ibn Malik Road ";
+
+"s33_name" = "Sahafa";
+"s33_address" = "King Abdul Aziz Road - Al Sahafa";
+
+"s34_name" = "Arkadia  Plaza";
+"s34_address" = "Prince Turki Bin Abdulaziz -Al Aawal Street";
+
+"s35_name" = "Badia";
+"s35_address" = "The Intersection Of Hamza Ibn Abdel Mutelib St., With Madina Roda";
+
+"s36_name" = "Swidi";
+"s36_address" = "Aisha Bent Abi Bakr Street, Next To Al Mazraa Market , ";
+
+
+"s37_name" = "Euro Marche";
+"s37_address" = "King Abdullah Roed";
+
+
+"s38_name" = "Alia Plaza";
+"s38_address" = "Exit No. 6 / The Intersection Of abubakr El Seddiq St.,With Thomama Road,";
+
+"s39_name" = "Somama ";
+"s39_address" = "Prince Muqrin Ibn Abdulaziz Roed";
+
+"s40_name" = "Tamimi Dabab";
+"s40_address" = "Prince Sultan Bin Abdulaziz Roed - Dubab Street";
+
+
+"s41_name" = "Irqah";
+"s41_address" = "Irqah District - Prince Mish'Al Road ";
+
+
+"s42_name" = "AlThagher Plaza";
+"s42_address" = "Exit 1 - next to Jarir Bookstore";
+
+
+"s43_name" = "Al Khaleej";
+"s43_address" = "King Abdullah Road inside Jarir section";
+
+
+"s44_name" = "Othman Free Standing";
+"s44_address" = "Uthman Ibn Affan Rd, Al Falah، Al Falah, Riyadh 13314, Saudi Arabia";
+
+
+"s45_name" = "Nakheel Centro";
+"s45_address" = "in-between of Exit 1 and 2";
+
+"s46_name" = "Orouba";
+"s46_address" = "Al Urubah Road";
+
+
+"s47_name" = "Mercato";
+"s47_address" = "Badia intersection of Al Madina Road and Hamzah St.";
+
+"s48_name" = "Al Wahah Plaza";
+"s48_address" = "King Abdullah St. in cross with Ded Sea in front of Farabi Hospital";
+
+"s49_name" = "Takasusi 3";
+"s49_address" = "takhasusi st. after the intersection with King Abdullah road heading the north";
+
+"s50_name" = "Nakheel mall";
+"s50_address" = "intersection of Othman bin Afan road & Imam soud road ..gate 4";
+
+
+
+"s51_name" = "Hamra mall";
+"s51_address" = "intersection of king abdullah road with Al Hassan bin ali street ..above gate 6";
+
+
+
+"s52_name" = "Centro Anas";
+"s52_address" = "Anas ben Malek Street";
+
+
+"s53_name" = "Rawabi Plaza";
+"s53_address" = "Prince Saad Ben Abdullrahman";
+
+"s54_name" = "Buraidah";
+"s54_address" = "Exit14 Omar Bin Al Khattab Street ";
+
+"s55_name" = "Faizia";
+"s55_address" = "Ali Bin Abi Talib Street ";
+
+
+
+
+"s56_name" = "Jarir Sari";
+"s56_address" = "Sari Street,  Jarir Bookstore Building Beside Othaim Market";
+
+"s57_name" = "Salam Mall";
+"s57_address" = "Salam Mall , King Abdulla Street Bani Malik district , Old Airport Road way";
+
+
+"s58_name" = "Haifa Mall";
+"s58_address" = "Haifa Mall  , On The Interception Between Flasteen Street And Al Madina Street.";
+"s59_name" = "Obhor";
+"s59_address" = "Mooj Plaza, Aber Al Qarat Street , ";
+
+"s60_name" = "Al Andalus Mall";
+"s60_address" = "Al Fayhaa Destrict - Price Majed St. inside the mall ";
+
+"s61_name" = "Flamingo";
+"s61_address" = "Prince Majid Street , Flamingo Mall ";
+
+
+
+"s62_name" = "Yasmin Mall";
+"s62_address" = "Al Harameen Street , Al Ajwad District , Yasmin Mall";
+
+
+
+"s63_name" = "Sultan Masara";
+"s63_address" =" Prince Sultan Street , Al Masarra Plaza , ";
+
+
+"s64_name" = "Arab Mall";
+"s64_address" = "Inside Arab Mall";
+
+"s65_name" = "Jouri Mall";
+"s65_address" = "Gate No. 5, Ground floor ";
+
+"s66_name" = "Dana Mall";
+"s66_address" = "Industrial Yanbu , Dana Mall    ";
+
+"s67_name" = "Doha";
+"s67_address" = "Alzahran- Doha Destrict ";
+
+
+"s68_name" = "Khuzama";
+"s68_address" = "Al-Khobar Alazizia Destrict ";
+
+"s69_name" = "Rashid";
+"s69_address" = "Al-Khobar Al Rashid Mall ";
+
+"s70_name" = "Amwaj";
+"s70_address" ="Al-Khobar Amwaj Mall ";
+
+"s71_name" = "DAHRAN MALL";
+"s71_address" = "Mall of DMall of Dhahran Blvd, Doha Al Janubiyah, Dhahran 34457";
+
+"s72_name" = "Nour";
+"s72_address" = "Damam- Nour Destrict ";
+
+"s73_name" = "Manar";
+"s73_address" = "Dammam- Faisalia Destrict Abu Baker Alseddik Road With King Fahd";
+
+"s74_name" = "Mazroya";
+"s74_address" = "Al Mazroya district";
+
+
+
+
+
+
